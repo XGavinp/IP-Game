@@ -3,5 +3,4 @@
 <br>This Project Encompasses Enhancing Web Development Skills and Creating a Game using HTML, CSS and JS. <br>
 The Game can be basically created using JS framework that can efficiently be useful to gain overall user experinece. <br> 
 The Project will also enhance Team Working Skills, Creativity, and Problem Solving Skills.<br> <br>
-Don't Push it. <br>
 
