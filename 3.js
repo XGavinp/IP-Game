@@ -48,7 +48,7 @@ function myfunc() {
 		document.getElementById('print') 
 			.innerHTML = "Player X won"; 
 		b2btn.disabled = true; 
-		b3btn.disabled = true; 
+		b3btn.disabled = true;    //Boolean Logic
 		b5btn.disabled = true; 
 		b6btn.disabled = true; 
 		b8btn.disabled = true; 
